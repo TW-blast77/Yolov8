@@ -1,0 +1,11 @@
+# 忽略 data 資料夾中的特定內容
+data/lib_training_dataset/train/
+data/lib_training_dataset/val/
+
+# 忽略 runs 資料夾中的所有內容
+runs/
+
+# 忽略特定檔案類型
+*.txt
+*.jpg
+*.pt

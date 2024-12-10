@@ -1,0 +1,8 @@
+path: .  
+train: C:/Users/user/Desktop/case/YoloV8/project/data/lib_training_dataset/train  # train images (relative to 'path')
+val: C:/Users/user/Desktop/case/YoloV8/project/data/lib_training_dataset/val      # val images (relative to 'path')
+
+# Classes
+names:
+  0: person
+  1: takebook
